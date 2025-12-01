@@ -63,9 +63,6 @@ java -cp class/lab1 year
 Via the **J-Learn** platform.
 
 <img width="935" height="263" alt="image" src="https://github.com/user-attachments/assets/5d755eb9-4730-4e0c-9859-de3fe509370b" />
-
-<img width="640" height="270" alt="image" src="https://github.com/user-attachments/assets/ea59e29b-78f8-49ca-a333-1e55b6d95ccf" />
-
 [](https://jlearn.it.kmitl.ac.th/)
   * **Platform:** [J-Learn (KMITL)](https://jlearn.it.kmitl.ac.th/)
   * **Language:** Java (JDK 17+)
