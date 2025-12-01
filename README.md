@@ -63,10 +63,10 @@ java -cp class/lab1 year
 Via the **J-Learn** platform.
 
 <img width="935" height="263" alt="image" src="https://github.com/user-attachments/assets/5d755eb9-4730-4e0c-9859-de3fe509370b" />
+
 [](https://jlearn.it.kmitl.ac.th/)
   * **Platform:** [J-Learn (KMITL)](https://jlearn.it.kmitl.ac.th/)
   * **Language:** Java (JDK 17+)
-
 -----
 ### Thanks !
   <img src="https://media1.tenor.com/m/k1VV-7HBfkAAAAAd/yoshino-helloha.gif" alt="animated bold text" width="400"/>
