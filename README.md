@@ -1,4 +1,4 @@
-# 🌸 Java OOP Archive
+<img width="640" height="270" alt="image" src="https://github.com/user-attachments/assets/a44cb0a4-2e92-415a-854f-df51ddee1efe" /># 🌸 Java OOP Archive
 
 <img src="https://media1.tenor.com/m/3Kh5qBpwIJQAAAAC/stampy-you%27re-going-to-java.gif" alt="animated bold text" width="400"/>
 
@@ -61,6 +61,8 @@ java -cp class/lab1 year
 ## 🔗 Quest Board (Resources)
 
 My learning progress is tracked and submitted via the **J-Learn** platform.
+
+<img width="640" height="270" alt="image" src="https://github.com/user-attachments/assets/ea59e29b-78f8-49ca-a333-1e55b6d95ccf" />
 
 [](https://jlearn.it.kmitl.ac.th/)
   * **Platform:** [J-Learn (KMITL)](https://jlearn.it.kmitl.ac.th/)
