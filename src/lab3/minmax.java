@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class minmax{
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -10,23 +10,25 @@ public class Main {
 
         if (n == -1) {
             System.out.println("No numbers were entered.");
-            return;
-        }
+        } else {
 
-        int max = n;
-        int min = n;
+            int max = n;
+            int min = n;
 
-        while (true) {
             System.out.print("Enter a number (-1 to stop): ");
             n = sc.nextInt();
 
-            if (n == -1) break;
+            while (n != -1) {
 
-            if (n > max) max = n;
-            if (n < min) min = n;
+                if (n > max) max = n;
+                if (n < min) min = n;
+
+                System.out.print("Enter a number (-1 to stop): ");
+                n = sc.nextInt();
+            }
+
+            System.out.println("Maximum = " + max);
+            System.out.println("Minimum = " + min);
         }
-
-        System.out.println("Maximum = " + max);
-        System.out.println("Minimum = " + min);
     }
 }
