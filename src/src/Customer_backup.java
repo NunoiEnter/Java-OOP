@@ -1,4 +1,5 @@
-//public class Customer_backup {
+//lab 2
+//public class Customer {
 //    private String firstName;
 //    private String lastName;
 //    private Account[] acct;
@@ -43,4 +44,5 @@
 //     public boolean equals(Customer c) {
 //        return this.firstName.equals(c.getFirstName()) && this.lastName.equals(c.getLastName());
 //    }
+
 //}
